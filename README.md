@@ -36,7 +36,6 @@ Pandas_python/ ├── DataSet/ │   └── iris.csv               # Sampl
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/AnshikaAsthana/Pandas_python.git
 cd Pandas_python
 
